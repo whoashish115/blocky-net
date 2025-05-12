@@ -18,7 +18,7 @@
 
 ## Overview
 
-Blocky Net is a full-stack publishing platform focused on cryptocurrency content. It combines a public blog/news website, authentication, reader engagement features, an admin content-management dashboard, analytics views, newsletter/report handling, and a separate cryptocurrency data API.
+Blocky Net is a full-stack blog platform focused on cryptocurrency content. It combines a  tracker, authentication, reader engagement features, an admin content-management dashboard, analytics views, newsletter/report handling, and a separate cryptocurrency data API.
 
 The project is organized into two main applications:
 
